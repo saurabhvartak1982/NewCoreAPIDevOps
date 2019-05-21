@@ -1,0 +1,14 @@
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.2\CoreAPIApp.deps.json
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.2\CoreAPIApp.runtimeconfig.json
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.2\CoreAPIApp.runtimeconfig.dev.json
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.2\CoreAPIApp.dll
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.2\CoreAPIApp.pdb
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.2\CoreAPIApp.csprojAssemblyReference.cache
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.2\CoreAPIApp.csproj.CoreCompileInputs.cache
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.2\CoreAPIApp.RazorAssemblyInfo.cache
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.2\CoreAPIApp.RazorAssemblyInfo.cs
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.2\CoreAPIApp.AssemblyInfoInputs.cache
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.2\CoreAPIApp.AssemblyInfo.cs
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.2\CoreAPIApp.RazorTargetAssemblyInfo.cache
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.2\CoreAPIApp.dll
+C:\Saurabh\Source\DevOpsTest\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.2\CoreAPIApp.pdb
